@@ -1,11 +1,10 @@
 +++
 # About widget.
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
-# headless = true  # This file represents a page section.
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear in.
 
-# title = "Biography"
 
 # List your academic interests.
 [interests]
@@ -36,13 +35,11 @@ weight = 5  # Order that this section will appear in.
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/author/` folder.
-#  author = "admin"
-
+# author = "admin"
 
 +++
 
 # About me
-
 I am an research scientist working in [immunogenomics](https://immunogenomics.hms.harvard.edu/) with [Dr. Soumya Raychaudhuri](https://dbmi.hms.harvard.edu/person/faculty/soumya-raychaudhuri) at Harvard Medical School, Brigham and Women's Hospital, and Broad Institute of Harvard and MIT at Boston.
 My research interests lie in the application of bioinformatics and statistics to study autoimmune diseases, medicine, and public health.
 I also work with [Dr. Michael Brenner](https://www.hms.harvard.edu/dms/immunology/fac/Brenner.php) from Brigham and Women's Hospital to investigate inflamed cell states in synovial tissue samples from rheumotoid arthritis and lupus patients. 

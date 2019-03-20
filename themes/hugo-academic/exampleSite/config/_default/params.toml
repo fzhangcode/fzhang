@@ -45,11 +45,6 @@ date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
 
-############################
-## Contact Widget setup   ##
-############################
-
-# Enter contact details (optional). To hide a field, clear it to "".
 email = "test@example.org"
 phone = "888 888 88 88"
 address = "Building 1 Room 1, Stanford University, California, 90210, USA"
@@ -92,9 +87,6 @@ latitude = "37.4275"
 longitude = "-122.1697"
 zoom = 15
 
-############################
-## Plugins                ##
-############################
 
 # Load CSS and JS plugins
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
@@ -102,9 +94,6 @@ zoom = 15
 plugins_css = []
 plugins_js  = []
 
-############################
-## Advanced options       ##
-############################
 
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
