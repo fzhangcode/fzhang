@@ -54,17 +54,30 @@ url_project = "https://www.niams.nih.gov/grants-funding/funded-research/accelera
 links = [{name = "Pubmed Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
-math = false
+math = true 
+
+# Does the content use source code highlighting?
+highlight = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
+image_preview = ""
+
+# [image]
   # Caption (optional)
   # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  # focal_point = ""
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "headers/amp_fig1.png"
+# caption = "My caption :smile:" 
+
+
 +++
 
 
