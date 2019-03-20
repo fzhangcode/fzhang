@@ -21,7 +21,7 @@ publication = "In *ICSA Book Series in Statistis*"
 publication_short = ""
 
 # Abstract.
-abstract = "[*arXiv/ICSA Book Series in Statistics*, 2016] Mixed membership factorization is a popular approach for analyzing data sets that have within-sample heterogeneity. In recent years, several algorithms have been developed for mixed membership matrix factorization, but they only guarantee estimates from a local optimum. Here, we derive a global optimization (GOP) algorithm that provides a guaranteed -global optimum for a sparse mixed membership matrix factorization problem. We test the algorithm on simulated data and find the algorithm always bounds the global optimum across random initializations and explores multiple modes efficiently."
+abstract = "[*arXiv/ICSA Book Series in Statistics*, 2018] Mixed membership factorization is a popular approach for analyzing data sets that have within-sample heterogeneity. In recent years, several algorithms have been developed for mixed membership matrix factorization, but they only guarantee estimates from a local optimum. Here, we derive a global optimization (GOP) algorithm that provides a guaranteed -global optimum for a sparse mixed membership matrix factorization problem. We test the algorithm on simulated data and find the algorithm always bounds the global optimum across random initializations and explores multiple modes efficiently."
 
 # Summary
 summary = ""

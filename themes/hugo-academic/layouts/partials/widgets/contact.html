@@ -26,7 +26,7 @@
       <li>
         <i class="fa-li fa fa-twitter fa-2x" aria-hidden="true"></i>
         <span>
-        <a href="https://twitter.com/{{ . }}">{{ . }}</a>
+        {{- if $autolink }}<a href="https://twitter.com/{{ . }}">{{ . }}</a>{{ else }}{{ . }}{{ end -}}
         </span>
       </li>
       {{ end }}
