@@ -1,5 +1,5 @@
 +++
-title = "Variational inference for rare variant detection in deep, heterogeneous nextgeneration sequencing data."
+title = "Variational inference for rare variant detection in deep, heterogeneous next generation sequencing data."
 date = 2017-03-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -67,6 +67,13 @@ math = true
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+  
+  
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "headers/vi_rvd2.png"
+# caption = "My caption :smile:" 
 +++
 
 
