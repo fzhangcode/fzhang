@@ -20,18 +20,18 @@ weight = 5  # Order that this section will appear in.
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in bioinformatics"
-  institution = "Worcester Polytechnic Institute"
+  institution = "Worcester Polytechnic Institute, MA USA"
   year = 2016
   month = 12
 
 [[education.courses]]
   course = "MS in bioinformatics"
-  institution = "Jilin University, China"
+  institution = "Jilin University, Changchun, China"
   year = 2012
 
 [[education.courses]]
   course = "BS in computer science"
-  institution = "Jilin University, China"
+  institution = "Jilin University, Chaungchun, China"
   year = 2009
 
 # Choose the user profile to display
