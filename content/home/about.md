@@ -3,7 +3,7 @@
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
 # headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear in.
+weight = 5  # Order that this section will appear in.
 
 # title = "Biography"
 
@@ -13,9 +13,8 @@ weight = 20  # Order that this section will appear in.
     "Immunogenomics",
     "Biostatistics and bioinformatics",
     "Single-cell genomics and genetics",
-    "Autoimmune diseases",
-    "Public health",
-    "Bayesian statistics and optimization"
+    "Bayesian statistics and optimization",
+    "Autoimmune disease"
   ]
 
 # List your qualifications (such as academic degrees).

@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "Fan Zhang"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -13,7 +13,7 @@ baseurl = "https://fzhang.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = ""
+copyright = "&copy; 2019"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-136285585-1"
@@ -27,8 +27,6 @@ disqusShortname = "fzhangphd"
 
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
-
-name = "custom"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
@@ -45,8 +43,14 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 preserveTaxonomyNames = true
 
 [outputs]
-  home = [ "HTML", "CSS", "RSS", "JSON" ]
+  # home = [ "HTML", "CSS", "RSS", "JSON" ]
+  # section = [ "HTML", "RSS" ]
+
+  home = [ "HTML", "CSS", "RSS" ]
   section = [ "HTML", "RSS" ]
+  taxonomy = [ "HTML", "RSS" ]
+  taxonomyTerm = [ "HTML", "RSS" ]
+
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
@@ -63,7 +67,13 @@ preserveTaxonomyNames = true
 
 [params]
   # Some other stuff...
+  color_theme = "custom"
+  font = "default"
 
+  name = "Fan Zhang"
+  role = "Research Scientist"
+  gravatar = false
+  avatar = "portrait.png"
   email = "fanzhang@broadinstitute.org"
   address = "77 Avenue Louis PasteurBoston, MA 02115"
   office_hours = ""
@@ -71,6 +81,61 @@ preserveTaxonomyNames = true
   skype = ""
   telegram = ""
   twitter = "FanZhang_Jessie"
+
+# Enable Keybase in Contact widget by entering your keybase.io username.
+  keybase = ""
+
+
+  highlight = true
+  highlight_languages = ["bash", "cs", "http", "javascript", "json", "markdown", "r", "xml", "yaml"]
+  highlight_style = "tomorrow-night-eighties"
+
+  # Enable native social sharing buttons?
+  sharing = true
+
+  # Privacy pack
+  #   Show a cookie consent message to visitors
+  #   Anonymize IP in Google Analytics (if enabled)
+  privacy_pack = false
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  custom_css = []
+  custom_js  = []
+
+
+
+  # Publication types.
+  #   Used to categorize publications.
+  #   The index of the publication type in the list is used as its unique numerical identifier.
+  #   The numeric ID is used in a publication's frontmatter to categorize it.
+  #   The language can be edited below.
+  #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
+  #   translated.
+  publication_types = [
+    'Uncategorized',  # 0
+    'Conference paper',  # 1
+    'Journal article',  # 2
+    'Manuscript',  # 3
+    'Report',  # 4
+    'Book',  # 5
+    'Book section'  # 6
+  ]
+
+
+# Configuration of publication pages.
+  [params.publications]
+    # Date format (refer to Go's date format: http://fuckinggodateformat.com )
+    #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+    date_format = "January, 2006"
+
+    # Publication list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = APA
+    #   3 = MLA
+    publication_format = 3
+
 
   [[params.social]]
     icon = "envelope"
@@ -80,7 +145,7 @@ preserveTaxonomyNames = true
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "https://twitter.com/FanZhang_Jessie"
+    link = "//twitter.com/FanZhang_Jessie"
 
  # [[params.social]]
  #   icon = "google-scholar"
@@ -90,11 +155,22 @@ preserveTaxonomyNames = true
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "https://github.com/fzhangcode"
+    link = "//github.com/fzhangcode"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/fan-zhang-phd-2149306b/"
+
 
  [params.talks]
     # Show talk time?
     time = true
+
+[params.menus]
+  # Align the main menu to the right of the page? (true/false)
+  align_right = true
+
 
 [[menu.main]]
   name = "Home"
@@ -104,17 +180,17 @@ preserveTaxonomyNames = true
 [[menu.main]]
   name = "CV"
   url = "#cv"
-  weight = 7
+  weight = 2
 
-[[menu.main]]
-  name = "Recent Talks"
-  url = "#talks"
-  weight = 7
+# [[menu.main]]
+#   name = "Recent Talks"
+#   url = "#talks"
+#  weight = 3
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 8
+  weight = 3
 
 # Taxonomies.
 [taxonomies]
@@ -122,3 +198,10 @@ preserveTaxonomyNames = true
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+
+# Configure the English version of the website.
+[Languages.en]
+  languageCode = "en-us"
+
+
