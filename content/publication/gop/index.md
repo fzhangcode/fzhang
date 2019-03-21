@@ -53,7 +53,7 @@ url_code = "https://github.com/fzhangcode/global_optimization"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Pubmed Link", url = "https://www.ncbi.nlm.nih.gov/pubmed/?term=Variational+inference+for+rare+variant+detection+in+deep%2C+heterogeneous+next-generation+sequencing+data"}]
+# links = [{name = "Pubmed Link", url = ""}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

@@ -45,6 +45,6 @@ My research interests lie in the application of bioinformatics and statistics to
 Recently, I focus on developing accurate and computationally scalable methods to study the single-cell genomics and genetics data to discover potential drug targets in autoimmune diseases.
 
 I received my PhD in [bioinformatics and biomedical engineering at WPI](https://www.wpi.edu/academics/departments/biomedical-engineering) where I worked with [Dr. Patrick Flaherty](https://people.math.umass.edu/~flaherty/?_ga=2.161809467.684947861.1552584709-2039651767.1552584709) on Bayesian statistics and machine learning for large-scale genomic data.
-I also worked with [Dr. Andrew Trapp](http://users.wpi.edu/~atrapp/) on developing global optimization algorithms to solve mixed membership models.
+I also worked with [Dr. Andrew C. Trapp](http://users.wpi.edu/~atrapp/) on developing global optimization algorithms to solve mixed membership models.
 
 

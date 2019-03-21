@@ -17,4 +17,4 @@ weight = 70
 
 +++
 
-Find my CV in PDF [here](cv/cv.pdf).
+If you'd like to learn more about my work, you can find my CV [here](cv/cv.pdf).

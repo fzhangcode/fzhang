@@ -27,7 +27,7 @@ abstract = "[*Bioinformatics*, 2015] We present a novel variant calling algorith
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1093/bioinformatics/btv275"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -67,6 +67,9 @@ math = true
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+[header]
+image = "headers/rvd2.png"
+# caption = "My caption :smile:" 
 +++
 
 
