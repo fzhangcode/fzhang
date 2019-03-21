@@ -119,10 +119,19 @@ a:focus {
   color: {{ .Get "link_hover" }};
 }
 
+# img,
+# video {
+#   height: auto;
+#   max-width: 100%;
+#   display: block;
+# }
+
 img,
 video {
   height: auto;
-  max-width: 100%;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
   display: block;
 }
 
