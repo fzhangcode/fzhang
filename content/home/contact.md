@@ -2,7 +2,7 @@
 # Contact widget.
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 # headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 date = 2019-03-20T00:00:00
 
