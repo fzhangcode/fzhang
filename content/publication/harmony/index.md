@@ -47,7 +47,7 @@ projects = ["internal-project"]
 # Links (optional).
 # url_pdf = ""
 url_preprint = "https://www.biorxiv.org/content/biorxiv/early/2018/11/05/461954.full.pdf"
-url_code = ""
+url_code = "https://github.com/immunogenomics/harmony"
 # url_dataset = "#"
 
 
