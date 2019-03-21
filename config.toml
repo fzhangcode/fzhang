@@ -239,10 +239,10 @@ preserveTaxonomyNames = true
   url = "#publications"
   weight = 30
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 50
+# [[menu.main]]
+#   name = "Contact"
+#   url = "#contact"
+#   weight = 50
 
 # Taxonomies.
 [taxonomies]
