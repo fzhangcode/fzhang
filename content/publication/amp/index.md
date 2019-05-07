@@ -43,7 +43,7 @@ tags = []
 # projects = ["internal-project"]
 
 # Links (optional).
-# url_pdf = "https://www.nature.com/articles/s41590-019-0378-1"
+url_pdf = "https://www.nature.com/articles/s41590-019-0378-1"
 # url_preprint = "https://www.biorxiv.org/content/biorxiv/early/2018/06/20/351130.full.pdf"
 url_code = "https://github.com/immunogenomics/amp_phase1_ra"
 # url_dataset = "#"
