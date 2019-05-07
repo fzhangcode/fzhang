@@ -17,7 +17,7 @@ authors = ["**Zhang, F.***", "Wei, K.*", "Slowikowski, K.*", "Fonseka, C.Y.*", "
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Nature Immunology*, In press"
+publication = "In *Nature Immunology*"
 publication_short = ""
 
 # Abstract.
