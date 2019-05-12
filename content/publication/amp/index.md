@@ -52,7 +52,7 @@ url_project = "https://www.niams.nih.gov/grants-funding/funded-research/accelera
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Pubmed Link", url = "http://example.org"}]
+links = [{name = "Pubmed Link", url = "https://www.ncbi.nlm.nih.gov/pubmed/?term=Defining+inflammatory+cell+states+in+rheumatoid+arthritis+joint+synovial+tissues+by+integrating+single-cell+transcriptomics+and+mass+sytometry."}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true 
