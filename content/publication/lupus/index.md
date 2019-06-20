@@ -1,5 +1,5 @@
 +++
-title = "The immune cell landscape in kidneys of lupus nephritis patients."
+title = "The immune cell landscape in kidneys of patients with lupus nephritis"
 date = 2019-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
