@@ -204,10 +204,10 @@ preserveTaxonomyNames = true
     link = "https://scholar.google.com/citations?user=yOek_fgAAAAJ&hl=en"
   
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/fzhangcode"
+#  [[params.social]]
+#    icon = "github"
+#    icon_pack = "fa"
+#    link = "https://github.com/fzhangcode"
 
 #  [[params.social]]
 #    icon = "linkedin"
