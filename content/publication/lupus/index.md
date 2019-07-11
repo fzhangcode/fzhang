@@ -28,7 +28,7 @@ abstract = "[*Nature Immunology*, 2019] Lupus nephritis is a potentially fatal a
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1038/s41590-019-0398-x"
+doi = "10.1038/s41590-019-0398-x"
 
 # Is this a featured publication? (true/false)
 featured = true

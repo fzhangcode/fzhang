@@ -27,7 +27,7 @@ abstract = "[*Science Translational Medicine*, 2019] Macrophages tailor their fu
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1126/scitranslmed.aau8587"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -45,7 +45,7 @@ tags = []
 projects = ["internal-project"]
 
 # Links (optional).
-# url_pdf = "https://stm.sciencemag.org/content/11/491/eaau8587.full"
+url_pdf = "https://stm.sciencemag.org/content/11/491/eaau8587.full"
 # url_preprint = "https://www.biorxiv.org/content/biorxiv/early/2019/01/31/525758.full.pdf"
 url_code = ""
 # url_dataset = "#"
