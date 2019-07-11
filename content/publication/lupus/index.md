@@ -5,8 +5,6 @@ date = 2019-02-01T00:00:00
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Arazi, A.*", "Rao, D.A.*", "Derthier, C.C.*", "Davidson, A.", "Liu, Y.", "Hoover, P.J.", "Chicoine, A.", "Eisenhaure, T.M.", "Jonsson A.H.", "Li, S.", "Lieb, D.J.", "**Zhang, F.**", "...", "Hacohen, N.", "Diamond, B."]
 
-Arnon Arazi, Deepak A. Rao, Celine C. Berthier, Anne Davidson, Yanyan Liu, Paul J. Hoover, Adam Chicoine, Thomas M. Eisenhaure, A. Helena Jonsson, Shuqiang Li, David J. Lieb, Fan Zhang, Kamil Slowikowski, Edward P. Browne, Akiko Noma, Danielle Sutherby, Scott Steelman, Dawn E. Smilek, Patti Tosta, William Apruzzese, Elena Massarotti, Maria Dall’Era, Meyeon Park, Diane L. Kamen, Richard A. Furie, Fernanda Payan-Schober, William F. Pendergraft III, Elizabeth A. McInnis, Jill P. Buyon, Michelle A. Petri, Chaim Putterman, Kenneth C. Kalunian, E. Steve Woodle, James A. Lederer, David A. Hildeman, Chad Nusbaum, Soumya Raychaudhuri, Matthias Kretzler, Jennifer H. Anolik, Michael B. Brenner, David Wofsy, Nir Hacohen, Betty Diamond & the Accelerating Medicines Partnership in SLE network
-
 
 # Publication type.
 # Legend:
@@ -30,7 +28,7 @@ abstract = "[*Nature Immunology*, 2019] Lupus nephritis is a potentially fatal a
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.1038/s41590-019-0398-x"
 
 # Is this a featured publication? (true/false)
 featured = true
