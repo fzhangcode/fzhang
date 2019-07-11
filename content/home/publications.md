@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Selected Publications"
-subtitle = "Code, data, and pdf for each paper are provided. Send me an email for questions."
+subtitle = "Code, data, and pdf for each paper are provided. Send me fanzhang@broadinstitute.org for questions."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
