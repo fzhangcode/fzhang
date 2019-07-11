@@ -92,7 +92,7 @@ preserveTaxonomyNames = true
   font = "default"
   disable_sri = true
   name = "Fan Zhang"
-  role = "Research Scientist/Computational Biologist"
+  role = "Computational Biologist"
   organizations = [{name = "Harvard Medical School"}, {name = "Broad Institute/Brigham and Women's Hospital"}]
   gravatar = false
   avatar = "portrait.png"
@@ -193,10 +193,10 @@ preserveTaxonomyNames = true
 #    icon_pack = "fa"
 #    link = "https://twitter.com/FanZhang_Jessie"
 
- [[params.social]]
-    icon = "fa-twitter"
-    icon_pack = "fas"
-    link = "//twitter.com/FanZhang_Jessie"
+  [[params.sociali]]
+     icon = "fa-twitter"
+     icon_pack = "fas"
+     link = "https://twitter.com/FanZhang_Jessie"
 
   [[params.social]]
     icon = "google-scholar"
