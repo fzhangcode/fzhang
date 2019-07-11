@@ -195,7 +195,7 @@ preserveTaxonomyNames = true
 
   [[params.social]]
      icon = "twitter"
-     icon_pack = "fab"
+     icon_pack = "fa"
      link = "https://twitter.com/FanZhang_Jessie"
 
   [[params.social]]
