@@ -188,10 +188,15 @@ preserveTaxonomyNames = true
     icon_pack = "fa"
     link = "mailto:fanzhang@broadinstitute.org"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "https://twitter.com/FanZhang_Jessie"
+#  [[params.social]]
+#    icon = "twitter"
+#    icon_pack = "fa"
+#    link = "https://twitter.com/FanZhang_Jessie"
+
+ [[params.social]]
+    icon = "fa-twitter"
+    icon_pack = "fas"
+    link = "//twitter.com/FanZhang_Jessie"
 
   [[params.social]]
     icon = "google-scholar"
