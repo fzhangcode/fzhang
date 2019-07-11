@@ -196,7 +196,8 @@ preserveTaxonomyNames = true
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=6uF4Sa8AAAAJ&hl=en"
+    link = "https://scholar.google.com/citations?user=yOek_fgAAAAJ&hl=en"
+  
 
   [[params.social]]
     icon = "github"
