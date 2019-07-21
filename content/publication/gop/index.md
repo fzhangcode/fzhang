@@ -1,6 +1,6 @@
 +++
 title = "A global optimization algorithm for sparse mixed-membership matrix factorization."
-date = 2018-03-01T00:00:00
+date = 2019-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Zhang, F.**", "Wang, C.", "Trapp, A.", "Flaherty, P."]

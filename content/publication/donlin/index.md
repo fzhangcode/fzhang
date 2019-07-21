@@ -1,6 +1,6 @@
 +++
 title = "HBEGF+ macrophages identified in rheumatoid arthritis promote joint tissue invasiveness and are reshaped differentially by medications"
-date = 2019-03-01T00:00:00
+date = 2019-05-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kuo, D.*", "Ding, j.*", "Cohn, I.", "**Zhang, F.**", "...", "Donlin, L.T."]
