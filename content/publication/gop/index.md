@@ -1,5 +1,5 @@
 +++
-title = "A scalable deterministic global optimization algorithm for sparse mixed-membership matrix factorization."
+title = "A global optimization algorithm for sparse mixed-membership matrix factorization."
 date = 2018-03-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -17,17 +17,17 @@ authors = ["**Zhang, F.**", "Wang, C.", "Trapp, A.", "Flaherty, P."]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "In *ICSA Book Series in Statistis*"
+publication = "In *ICSA Book Series in Statistis, Springer, Cham*"
 publication_short = ""
 
 # Abstract.
-abstract = "[*arXiv/ICSA Book Series in Statistics*, 2018] Mixed membership factorization is a popular approach for analyzing data sets that have within-sample heterogeneity. In recent years, several algorithms have been developed for mixed membership matrix factorization, but they only guarantee estimates from a local optimum. Here, we derive a global optimization (GOP) algorithm that provides a guaranteed -global optimum for a sparse mixed membership matrix factorization problem. We test the algorithm on simulated data and find the algorithm always bounds the global optimum across random initializations and explores multiple modes efficiently."
+abstract = "[*ICSA Book Series in Statistics. Springer, Cham*, 2019] Mixed membership factorization is a popular approach for analyzing data sets that have within-sample heterogeneity. In recent years, several algorithms have been developed for mixed membership matrix factorization, but they only guarantee estimates from a local optimum. Here, we derive a global optimization (GOP) algorithm that provides a guaranteed -global optimum for a sparse mixed membership matrix factorization problem. We test the algorithm on simulated data and find the algorithm always bounds the global optimum across random initializations and explores multiple modes efficiently."
 
 # Summary
-summary = ""
+summary = "Cited as:	**Zhang, F.**, Wang C., Trapp, A., and Flaherty, PA Global Optimization Algorithm for Sparse Mixed Membership Matrix Factorization. In Contemporary Biostatistics with Biopharmaceutical Applications (pp. 129-156), ICSA Book Series in Statistics. Springer, Cham (2019)."
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.1007/978-3-030-15310-6_7"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -45,7 +45,7 @@ tags = []
 projects = ["internal-project"]
 
 # Links (optional).
-# url_pdf = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5244592/pdf/12859_2016_Article_1451.pdf"
+url_pdf = "https://rd.springer.com/chapter/10.1007/978-3-030-15310-6_7"
 url_preprint = "https://arxiv.org/pdf/1610.06145.pdf"
 url_code = "https://github.com/fzhangcode/global_optimization"
 # url_dataset = "#"
