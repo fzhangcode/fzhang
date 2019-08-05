@@ -30,7 +30,7 @@ theme = "hugo-academic"
 name = "custom"
 
 # Is theme light or dark?
-light = ture
+theme = light
 
 # # Primary
 primary = "#328cc1"
