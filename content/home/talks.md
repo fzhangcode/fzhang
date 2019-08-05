@@ -1,6 +1,7 @@
 +++
 # Recent and Upcoming Talks widget.
-widget = "talks"
+# widget = "talks"
+widget = "pages"
 headless = true  # This file represents a page section.
 active = true
 date = 2016-04-20T00:00:00
