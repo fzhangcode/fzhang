@@ -30,7 +30,7 @@ theme = "hugo-academic"
 name = "custom"
 
 # Is theme light or dark?
-light = false
+light = ture
 
 # # Primary
 primary = "#328cc1"
@@ -124,10 +124,10 @@ preserveTaxonomyNames = true
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "42.3601"
+  longitude = "71.0589"
   zoom = 15
 
 
@@ -216,11 +216,11 @@ preserveTaxonomyNames = true
 
 
 
- [params.talks]
+[[params.talks]]
     # Show talk time?
     time = true
 
-[params.menus]
+[[params.menus]]
   # Align the main menu to the right of the page? (true/false)
   align_right = true
 
@@ -238,13 +238,13 @@ preserveTaxonomyNames = true
 [[menu.main]]
   name = "Recent Talks"
   url = "#talks"
-  weight = 4
+  weight = 3
 
 
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 3
+  weight = 4
 
 # [[menu.main]]
 #   name = "Contact"
