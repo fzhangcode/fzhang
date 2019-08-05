@@ -8,4 +8,3 @@ title: From cell line to command line: my journey to bioinformatics
 # location = "Keystone, CO, United States"
 ---
 
-**Single-cell RNA-seq** technology
