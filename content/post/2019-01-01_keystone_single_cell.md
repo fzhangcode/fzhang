@@ -7,4 +7,7 @@ subtitle: Integrating single-cell transcriptomics and mass cytometry to define c
 It was great to explore Breckenridge at Colorado - the best ski place!
 Glad to meet the single-cell folks and presented my work of
 using single-cell trascriptomics and mass cytometry to identify
-pathogenic cell states in rheumatoid arhtiritis [oral talk](http://www.keystonesymposia.org/19L1) 
+pathogenic cell states in rheumatoid arhtiritis.
+
+
+Here is the [agenda](http://www.keystonesymposia.org/19L1) for more exciting talks!
