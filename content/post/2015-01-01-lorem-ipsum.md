@@ -1,6 +1,11 @@
 ---
-date: "2015-01-01T13:09:13-06:00"
-title: Lorem Ipsum
+date: "2019-01-01T13:09:13-06:00"
+title: From cell line to command line: my journey to bioinformatics
+abstract = ""
+abstract_short = ""
+event = "Oral talk"
+event_url = ""
+location = "Keystone, CO, United States"
 ---
 
-**Lorem ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore _magna aliqua_. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Single-cell RNA-seq** technology
