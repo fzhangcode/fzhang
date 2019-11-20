@@ -17,7 +17,7 @@ authors = ["Korsunsky, I.", "Millard, N.", "Fan, J.", "Slowikowski, K.", "**Zhan
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *bioRxiv*, In review"
+publication = "In *Nature Method*"
 publication_short = ""
 
 # Abstract.
