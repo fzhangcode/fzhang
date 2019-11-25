@@ -8,8 +8,9 @@ date = 2016-04-20T00:00:00
 weight = 90  # Order that this section will appear.
 
 title = "Recent Talks"
-subtitle = ""
+subtitle = "Invited and oral abstract talks"
 
+[content]
 # Number of talks to list.
 count = 20
 

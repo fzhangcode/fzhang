@@ -20,8 +20,8 @@ weight = 5  # Order that this section will appear in.
 [[education.courses]]
   course = "PhD in bioinformatics"
   institution = "Worcester Polytechnic Institute, MA USA"
-  year = 2016
-  month = 12
+  year = 2017
+  month = 2
 
 [[education.courses]]
   course = "MS in bioinformatics"
