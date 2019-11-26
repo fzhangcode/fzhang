@@ -1,7 +1,7 @@
 ---
 date: "2019-01-03T13:09:13-06:00"
-title: Single Cell Biology Keystone Symposia
-subtitle: Integrating single-cell transcriptomics and mass cytometry to define cell states in rheumatoid arthritis.
+title: "Integrating single-cell transcriptomics and mass cytometry to define cell states in rheumatoid arthritis" at Single Cell Biology Keystone Symposia 2019
+subtitle: single-cell integration
 ---
 
 It was great to explore Breckenridge at Colorado - the best ski place!
