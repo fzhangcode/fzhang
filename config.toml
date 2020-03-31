@@ -211,9 +211,9 @@ preserveTaxonomyNames = true
 
 
 
-# [[params.talks]]
+ [[params.talks]]
 #    # Show talk time?
-#    time = true
+    time = true
 
 [[params.menus]]
   # Align the main menu to the right of the page? (true/false)
