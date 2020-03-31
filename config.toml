@@ -98,7 +98,7 @@ preserveTaxonomyNames = true
   organizations = [{name = "Harvard Medical School"}, {name = "Broad Institute/Brigham and Women's Hospital"}]
   gravatar = false
   avatar = "portrait.png"
-  email = "fanzhang@broadinstitute.org"
+  # email = "fanzhang@broadinstitute.org"
   # address = "77 Avenue Louis Pasteur, Boston, MA 02115"
   # twitter = "FanZhang_Jessie" 
   # office_hours = ""
