@@ -90,7 +90,7 @@ preserveTaxonomyNames = true
 [params]
   # Some other stuff...
   # color_theme = "custom"
-  themeVariant = "mine"
+  themeVariant = "green"
   font = "default"
   disable_sri = true
   name = "Fan Zhang"
