@@ -100,7 +100,7 @@ preserveTaxonomyNames = true
   avatar = "portrait.png"
   email = "fanzhang@broadinstitute.org"
   address = "77 Avenue Louis Pasteur, Boston, MA 02115"
-  # twitter = "FanZhang_Jessie" 
+  twitter = "FanZhang_Jessie" 
   # office_hours = ""
   # phone = ""
   # skype = ""
@@ -189,7 +189,7 @@ preserveTaxonomyNames = true
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:fanzhang@broadinstitute.org"
+    link = "fanzhang@broadinstitute.org"
 
   [[params.social]]
     icon = "orcid"
@@ -199,7 +199,7 @@ preserveTaxonomyNames = true
     
   [[params.social]]
     icon = "twitter"
-    icon_pack = "fa"
+    icon_pack = "ai"
     link = "//twitter.com/FanZhang_Jessie"
 
   [[params.social]]
@@ -254,7 +254,7 @@ preserveTaxonomyNames = true
 [[menu.main]]
    name = "Contact"
    url = "#contact"
-   weight = 5
+   weight = 6
 
 # Taxonomies.
 [taxonomies]
