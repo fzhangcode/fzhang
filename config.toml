@@ -93,7 +93,7 @@ preserveTaxonomyNames = true
   themeVariant = "green"
   font = "default"
   disable_sri = true
-  name = "Fan Zhang (张帆)"
+  name = "Fan Zhang"
   role = "Computational Biologist"
   organizations = [{name = "Harvard Medical School"}, {name = "Broad Institute/Brigham and Women's Hospital"}]
   gravatar = false
