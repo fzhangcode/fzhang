@@ -93,15 +93,15 @@ preserveTaxonomyNames = true
   themeVariant = "green"
   font = "default"
   disable_sri = true
-  name = "Fan Zhang"
+  name = "Fan Zhang (张帆)"
   role = "Computational Biologist"
   organizations = [{name = "Harvard Medical School"}, {name = "Broad Institute/Brigham and Women's Hospital"}]
   gravatar = false
   avatar = "portrait.png"
   email = "fanzhang@broadinstitute.org"
   address = "77 Avenue Louis Pasteur, Boston, MA 02115"
-  twitter = "FanZhang_Jessie" 
- # office_hours = ""
+  # twitter = "FanZhang_Jessie" 
+  # office_hours = ""
   # phone = ""
   # skype = ""
   # telegram = ""
@@ -192,9 +192,15 @@ preserveTaxonomyNames = true
     link = "mailto:fanzhang@broadinstitute.org"
 
   [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0002-6102-2970"
+    
+    
+  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "https://twitter.com/FanZhang_Jessie"
+    link = "//twitter.com/FanZhang_Jessie"
 
   [[params.social]]
     icon = "google-scholar"
