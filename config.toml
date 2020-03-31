@@ -188,15 +188,10 @@ preserveTaxonomyNames = true
     icon_pack = "fa"
     link = "mailto:fanzhang@broadinstitute.org"
 
-#  [[params.social]]
-#    icon = "twitter"
-#    icon_pack = "fa"
-#    link = "https://twitter.com/FanZhang_Jessie"
-
-#  [[params.social]]
-#     icon = "twitter"
-#     icon_pack = "fa"
-#     link = "https://twitter.com/FanZhang_Jessie"
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "https://twitter.com/FanZhang_Jessie"
 
   [[params.social]]
     icon = "google-scholar"
@@ -216,9 +211,9 @@ preserveTaxonomyNames = true
 
 
 
-[[params.talks]]
-    # Show talk time?
-    time = true
+# [[params.talks]]
+#    # Show talk time?
+#    time = true
 
 [[params.menus]]
   # Align the main menu to the right of the page? (true/false)
@@ -246,10 +241,10 @@ preserveTaxonomyNames = true
   url = "#publications"
   weight = 4
 
-# [[menu.main]]
-#   name = "Contact"
-#   url = "#contact"
-#   weight = 50
+[[menu.main]]
+   name = "Contact"
+   url = "#contact"
+   weight = 5
 
 # Taxonomies.
 [taxonomies]

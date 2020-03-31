@@ -9,7 +9,6 @@ weight = 5  # Order that this section will appear in.
 # List your academic interests.
 [interests]
   interests = [
-    "Immunogenomics",
     "Biostatistics and bioinformatics",
     "Single-cell genomics and genetics",
     "Bayesian statistics and optimization",
@@ -18,7 +17,7 @@ weight = 5  # Order that this section will appear in.
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in bioinformatics"
+  course = "PhD in Bioinformatics"
   institution = "Worcester Polytechnic Institute, MA USA"
   year = 2017
   month = 2
