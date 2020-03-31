@@ -189,7 +189,7 @@ preserveTaxonomyNames = true
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "fanzhang@broadinstitute.org"
+    link = "mailto:fanzhang@broadinstitute.org"
 
   [[params.social]]
     icon = "orcid"
