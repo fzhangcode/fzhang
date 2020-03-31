@@ -90,6 +90,7 @@ preserveTaxonomyNames = true
 [params]
   # Some other stuff...
   # color_theme = "custom"
+  themeVariant = "mine"
   font = "default"
   disable_sri = true
   name = "Fan Zhang"
@@ -168,10 +169,6 @@ preserveTaxonomyNames = true
     'Book section'  # 6
   ]
 
-
-[params]
-  # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "mine"
 
 
 # Configuration of publication pages.
