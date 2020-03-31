@@ -169,6 +169,11 @@ preserveTaxonomyNames = true
   ]
 
 
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "mine"
+
+
 # Configuration of publication pages.
   [params.publications]
     # Date format (refer to Go's date format: http://fuckinggodateformat.com )
