@@ -100,7 +100,7 @@ preserveTaxonomyNames = true
   avatar = "portrait.png"
   email = "fanzhang@broadinstitute.org"
   # address = "77 Avenue Louis Pasteur, Boston, MA 02115"
-  twitter = "FanZhang_Jessie" 
+  # twitter = "FanZhang_Jessie" 
   # office_hours = ""
   # phone = ""
   # skype = ""
@@ -197,10 +197,10 @@ preserveTaxonomyNames = true
     link = "https://orcid.org/0000-0002-6102-2970"
     
     
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "ai"
-    link = "//twitter.com/FanZhang_Jessie"
+  # [[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "ai"
+  #  link = "//twitter.com/FanZhang_Jessie"
 
   [[params.social]]
     icon = "google-scholar"
