@@ -32,5 +32,5 @@ links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitt
   focal_point = "Smart"
 +++
 
-I collabrate with [Dr. Edy Kim](https://connects.catalyst.harvard.edu/Profiles/display/Person/52376) on this project to understand the cellular heterogeneity of RA-ILD (RA-UIP and RA-nonUIP) and IPF lung diseases using single-cell RNA-seq.
+We collabrate with [Dr. Edy Kim](https://connects.catalyst.harvard.edu/Profiles/display/Person/52376) on this project to understand the cellular heterogeneity of RA-ILD (RA-UIP and RA-nonUIP) and IPF lung diseases using single-cell RNA-seq.
 

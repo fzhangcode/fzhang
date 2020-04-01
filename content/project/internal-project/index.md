@@ -44,7 +44,7 @@ links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitt
   focal_point = "Smart"
 +++
 
-We integrated single cell transcriptomics from multiple inflamed human tissues including rheumatoid arthritis, lupus, inflammatory bowel disease, pulmanory fibrosis and other lung phenotypes.
+We integrated single cell transcriptomics from multiple inflamed human tissues including rheumatoid arthritis synovium, lupus kidney, ulcerative colitis colon, pulmanory fibrosis lung, multiple sclerosis brain, and other autoimmune diseases. We focus on the myeloid population and closely collabrate with [Dr. Laura Donlin](https://www.donlinlab.com/). 
 
 
 
