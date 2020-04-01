@@ -6,7 +6,7 @@ widget = "pages"
 headless = true  # This file represents a page section.
 active = true
 # date = 2016-04-20T00:00:00
-weight = 90  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Recent Talks"
 subtitle = "Invited and oral talks"

@@ -197,10 +197,10 @@ preserveTaxonomyNames = true
     link = "https://orcid.org/0000-0002-6102-2970"
     
     
-  # [[params.social]]
-  #  icon = "twitter"
-  #  icon_pack = "ai"
-  #  link = "//twitter.com/FanZhang_Jessie"
+   [[params.social]]
+    icon = "twitter"
+    icon_pack = "fab"
+    link = "https://twitter.com/FanZhang_Jessie"
 
   [[params.social]]
     icon = "google-scholar"
@@ -245,6 +245,11 @@ preserveTaxonomyNames = true
   url = "#publications"
   weight = 3
 
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 5
+  
 
 [[menu.main]]
   name = "Recent Talks"
