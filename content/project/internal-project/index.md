@@ -10,7 +10,7 @@ summary = "Finding inflammatory cell states in the myeloid population across RA,
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Single Cell"]
+tags = ["Single Cell Lung"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
