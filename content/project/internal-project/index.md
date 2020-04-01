@@ -6,11 +6,11 @@ title = "Single-cell integration of multiple inflamed tissues"
 date = 2019-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Finding inflammatory cell states in the myeloid population across RA, SLE, IBD, etc"
+summary = "Finding common pro-inflammatory and anti-inflammatory cell states in the myeloid population across RA, SLE, IBD, etc"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Single Cell Lung"]
+tags = ["Single Cell Myeloid"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
