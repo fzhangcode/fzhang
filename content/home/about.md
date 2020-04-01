@@ -23,12 +23,12 @@ weight = 5  # Order that this section will appear in.
   month = 2
 
 [[education.courses]]
-  course = "MS in bioinformatics"
+  course = "MS in Bioinformatics"
   institution = "Jilin University, Changchun, China"
   year = 2012
 
 [[education.courses]]
-  course = "BS in computer science"
+  course = "BS in Computer Science"
   institution = "Jilin University, Chaungchun, China"
   year = 2009
 
