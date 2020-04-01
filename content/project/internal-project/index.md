@@ -6,7 +6,7 @@ title = "Single-cell integration of multiple inflamed tissues"
 date = 2019-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Finding common cell states for RA, SLE, IBD, etc"
+summary = "Finding inflammatory cell states in the myeloid population across RA, SLE, IBD, etc"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -15,19 +15,19 @@ tags = ["Single Cell"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = "example-slides"
-
-# Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+# # Slides (optional).
+# #   Associate this project with Markdown slides.
+# #   Simply enter your slide deck's filename without extension.
+# #   E.g. `slides = "example-slides"` references 
+# #   `content/slides/example-slides.md`.
+# #   Otherwise, set `slides = ""`.
+# slides = "example-slides"
+# 
+# # Links (optional).
+# url_pdf = ""
+# url_slides = ""
+# url_video = ""
+# url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
