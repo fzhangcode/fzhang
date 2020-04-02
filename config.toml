@@ -58,20 +58,20 @@ defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
-paginate = 10  # Number of items per page in paginated lists.
+paginate = 15  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 
 [outputs]
-   home = [ "HTML", "CSS", "RSS", "JSON" ]
-   section = [ "HTML", "RSS" ]
-
-  #  home = [ "HTML", "CSS", "RSS" ]
+  # home = [ "HTML", "CSS", "RSS", "JSON" ]
   # section = [ "HTML", "RSS" ]
-  # taxonomy = [ "HTML", "RSS" ]
-  # taxonomyTerm = [ "HTML", "RSS" ]
+
+    home = [ "HTML", "CSS", "RSS" ]
+    section = [ "HTML", "RSS" ]
+    taxonomy = [ "HTML", "RSS" ]
+    taxonomyTerm = [ "HTML", "RSS" ]
 
 
 # Configure BlackFriday Markdown rendering.
@@ -210,7 +210,7 @@ preserveTaxonomyNames = true
 
   [[params.social]]
     icon = "laptop-code"
-    icon_pack = "fas"
+    icon_pack = "ai"
     link = "https://github.com/fzhangcode"
 
 #  [[params.social]]
@@ -247,7 +247,7 @@ preserveTaxonomyNames = true
 
 [[menu.main]]
   name = "Projects"
-  url = "#projects"
+  url = "#project"
   weight = 4
   
 
