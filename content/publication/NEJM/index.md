@@ -68,7 +68,7 @@ math = true
   focal_point = ""
 [header]
 image = "headers/NEJM1.png"
-image = "headers/NEJM2.png"
+
 # caption = "My caption :smile:" 
 +++
 
