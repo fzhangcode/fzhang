@@ -2,7 +2,7 @@
 title = "RNA Identification of PRIME Cells Predicting Rheumatoid Arthritis Flares"
 date = 2020-07-10T00:00:00
 
-authors = ["Orange, D.", "Yao, V.", "Sawicka, K.", "Jak, J.", "…", "**Zhang, F.**", "Raychaudhuri, S.", "Troyanskya, O.", "Darnell, R.B."]
+authors = ["Orange, D.", "Yao, V.", "Sawicka, K.", "Fak, J.", "Frank M.O.", "Parveen, S.", "Blachere N.E.", "Hale C.", "**Zhang, F.**", "Raychaudhuri, S.", "Troyanskya, O.", "Darnell, R.B."]
 
 # Publication type.
 # Legend:
