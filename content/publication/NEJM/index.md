@@ -2,8 +2,7 @@
 title = "RNA Identification of PRIME Cells Predicting Rheumatoid Arthritis Flares"
 date = 2020-07-10T00:00:00
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Orange, D.", "Yao, V.", "Sawicka, K.", "Jak, J.", "…", "**Zhang, F.**", "Raychaudhuri, S.", "Troyanskya, O.", "Darnell, R.B.""]
+authors = ["Orange, D.", "Yao, V.", "Sawicka, K.", "Jak, J.", "…", "**Zhang, F.**", "Raychaudhuri, S.", "Troyanskya, O.", "Darnell, R.B."]
 
 # Publication type.
 # Legend:
