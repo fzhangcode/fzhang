@@ -20,13 +20,13 @@ publication = "*New England Journal of Medicine*"
 publication_short = "NEJM"
 
 # Abstract.
-abstract = "[*New England Journal of Medicine*, July, 2020]"
+abstract = "[*New England Journal of Medicine*, N Engl J Med 2020;383:218-28]"
 
 # Summary
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "DOI: 10.1056/NEJMoa2004114"
 
 # Is this a featured publication? (true/false)
 featured = true
