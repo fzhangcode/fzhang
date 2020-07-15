@@ -16,11 +16,11 @@ authors = ["Orange, D.", "Yao, V.", "Sawicka, K.", "Fak, J.", "Frank M.O.", "Par
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In press *New England Journal of Medicine*"
+publication = "*New England Journal of Medicine*"
 publication_short = "NEJM"
 
 # Abstract.
-abstract = "[*New England Journal of Medicine*, In press, 2020]"
+abstract = "[*New England Journal of Medicine*, July, 2020]"
 
 # Summary
 summary = ""
