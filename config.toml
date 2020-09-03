@@ -95,7 +95,7 @@ preserveTaxonomyNames = true
   disable_sri = true
   name = "Fan Zhang"
   role = "Computational Biologist"
-  organizations = [{name = "Harvard Medical School"}, {name = "Broad Institute/Brigham and Women's Hospital"}]
+  organizations = [{name = "Harvard Medical School/Brigham and Women's Hospital"}, {name = "Broad Institute of MIT and Harvard"}]
   gravatar = false
   avatar = "portrait.png"
   # email = "fanzhang@broadinstitute.org"
