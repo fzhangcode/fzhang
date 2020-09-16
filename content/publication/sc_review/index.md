@@ -1,9 +1,9 @@
 +++
 title = "Single-cell transcriptomics in cancer: computational challenges and opportunities"
-date = 2020-03-20T00:00:00
+date = 2020-09-15T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Fan, J.", "**Zhang, F.**", "slowikowski, K."]
+authors = ["Fan, J.", "slowikowski, K.",  "**Zhang, F.**"]
 
 # Publication type.
 # Legend:
@@ -17,17 +17,17 @@ authors = ["Fan, J.", "**Zhang, F.**", "slowikowski, K."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In press *Nature Experimental & Molecular Medicine*"
+publication = "*Nature Experimental & Molecular Medicine*"
 publication_short = "Nature EMM"
 
 # Abstract.
-abstract = "[*Nature Experimental & Molecular Medicine*, In press, 2020] In this review, we highlight emerging themes in computational analysis of single-cell transcriptomics data and their applications to cancer research. We focus on downstream analytical challenges relevant to cancer research, including how to computationally perform unified analysis across many patients and disease states, distinguish neoplastic from non-neoplastic cells, infer communication with the tumor microenvironment, and delineate tumoral and microenvironmental evolution with trajectory and RNA velocity analysis. We include discussions on challenges and opportunities for future computational methodological advancements needed to realize the translational potential of single-cell transcriptomic profiling in cancer."
+abstract = "[*Nature Experimental & Molecular Medicine*, 2020] In this review, we highlight emerging themes in computational analysis of single-cell transcriptomics data and their applications to cancer research. We focus on downstream analytical challenges relevant to cancer research, including how to computationally perform unified analysis across many patients and disease states, distinguish neoplastic from non-neoplastic cells, infer communication with the tumor microenvironment, and delineate tumoral and microenvironmental evolution with trajectory and RNA velocity analysis. We include discussions on challenges and opportunities for future computational methodological advancements needed to realize the translational potential of single-cell transcriptomic profiling in cancer."
 
 # Summary
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.1038/s12276-020-0422-0"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -45,7 +45,7 @@ tags = []
 projects = ["internal-project"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.nature.com/articles/s12276-020-0422-0"
 # url_preprint = ""
 url_code = ""
 # url_dataset = "#"
