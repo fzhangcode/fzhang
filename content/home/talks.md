@@ -1,6 +1,4 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/talks/`.
 
 widget = "pages"
 headless = true  # This file represents a page section.
@@ -67,4 +65,4 @@ subtitle = "Invited and oral talks"
  
  # CSS class.
  css_class = ""
- 
+ +++
