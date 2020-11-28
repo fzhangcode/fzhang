@@ -6,7 +6,7 @@ widget = "pages"
 headless = true  # This file represents a page section.
 active = true
 # date = 2016-04-20T00:00:00
-weight = 30  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Recent Talks"
 subtitle = "Invited and oral talks"
@@ -17,7 +17,7 @@ subtitle = "Invited and oral talks"
   page_type = "talks"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 15
+  count = 10
   
   # # Choose how many pages you would like to offset by
   # offset = 0
