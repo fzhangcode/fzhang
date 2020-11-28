@@ -1,5 +1,5 @@
 +++
-title = "Variational inference for rare variant detection in deep, heterogeneous next generation sequencing data."
+title = "Variational inference for rare variant detection in deep, heterogeneous next generation sequencing data. *BMC Bioinformatics*, 2017"
 date = 2017-03-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -21,7 +21,7 @@ publication = "In *BMC Bioinformatics*"
 publication_short = ""
 
 # Abstract.
-abstract = "[*BMC Bioinformatics*, 2017] We propose a Bayesian statistical model and a variational expectation maximization (EM) algorithm to estimate non-reference allele frequency (NRAF) and identify SNVs in heterogeneous cell populations. We demonstrate that our variational EM algorithm has comparable sensitivity and specificity compared with a Markov Chain Monte Carlo (MCMC) sampling inference algorithm, and is more computationally efficient on tests of relatively low coverage (27× and 298×) data. Furthermore, we show that our model with a variational EM inference algorithm has higher specificity than many state-of-the-art algorithms. In an analysis of a directed evolution longitudinal yeast data set, we are able to identify a time-series trend in non-reference allele frequency and detect novel variants that have not yet been reported. Our model also detects the emergence of a beneficial variant earlier than was previously shown, and a pair of concomitant variants."
+abstract = "We propose a Bayesian statistical model and a variational expectation maximization (EM) algorithm to estimate non-reference allele frequency (NRAF) and identify SNVs in heterogeneous cell populations. We demonstrate that our variational EM algorithm has comparable sensitivity and specificity compared with a Markov Chain Monte Carlo (MCMC) sampling inference algorithm, and is more computationally efficient on tests of relatively low coverage (27× and 298×) data. Furthermore, we show that our model with a variational EM inference algorithm has higher specificity than many state-of-the-art algorithms. In an analysis of a directed evolution longitudinal yeast data set, we are able to identify a time-series trend in non-reference allele frequency and detect novel variants that have not yet been reported. Our model also detects the emergence of a beneficial variant earlier than was previously shown, and a pair of concomitant variants."
 
 # Featured image thumbnail (optional)
 image_preview = ""

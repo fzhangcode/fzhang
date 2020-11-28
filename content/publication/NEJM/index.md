@@ -1,5 +1,5 @@
 +++
-title = "RNA Identification of PRIME Cells Predicting Rheumatoid Arthritis Flares"
+title = "RNA Identification of PRIME Cells Predicting Rheumatoid Arthritis Flares. *New England Journal of Medicine*, 2020"
 date = 2020-07-10T00:00:00
 
 authors = ["Orange, D.", "Yao, V.", "Sawicka, K.", "Fak, J.", "Frank M.O.", "Parveen, S.", "Blachere N.E.", "Hale C.", "**Zhang, F.**", "Raychaudhuri, S.", "Troyanskya, O.", "Darnell, R.B."]
@@ -20,7 +20,7 @@ publication = "*New England Journal of Medicine*"
 publication_short = "NEJM"
 
 # Abstract.
-abstract = "[*New England Journal of Medicine*, N Engl J Med 2020;383:218-28]"
+abstract = ""
 
 # Summary
 summary = ""
