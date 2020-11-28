@@ -1,5 +1,5 @@
 +++
-title = "Defining inflammatory cell states in rheumatoid arthritis joint synovial tissues by integrating single-cell transcriptomics and mass sytometry. *Nature Immunology*, 2019."
+title = "Defining inflammatory cell states in rheumatoid arthritis joint synovial tissues by integrating single-cell transcriptomics and mass sytometry. Nature Immunology, 2019."
 date = 2019-05-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

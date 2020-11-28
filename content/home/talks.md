@@ -41,7 +41,7 @@ subtitle = "Invited and oral talks"
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  color = "#2C3287"
+  color = "white"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

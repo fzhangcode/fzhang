@@ -45,7 +45,7 @@ subtitle = "Code, data, and pdf for each paper are provided. Ask [me](mailto:fzh
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  color = "#2C3287"
+  color = "#BEBADA"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

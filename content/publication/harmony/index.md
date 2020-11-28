@@ -1,5 +1,5 @@
 +++
-title = "Fast, sensitive and accurate integration of single-cell data with Harmony. *Nature Method*, 2019."
+title = "Fast, sensitive and accurate integration of single-cell data with Harmony. Nature Method, 2019."
 date = 2019-11-01T00:00:00
 
 # Authors. 

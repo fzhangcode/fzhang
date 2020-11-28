@@ -1,5 +1,5 @@
 +++
-title = "RVD2: an ultra-sensitive variant detection model for low-depth heterogeneous next-generation sequencing data. *Bioinformatics*, 2015"
+title = "RVD2: an ultra-sensitive variant detection model for low-depth heterogeneous next-generation sequencing data. Bioinformatics, 2015"
 date = 2015-03-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

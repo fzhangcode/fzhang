@@ -37,7 +37,7 @@ weight = 5  # Order that this section will appear in.
 # This should be the username of a profile in your `content/author/` folder.
 # author = "admin"
 
-+++
+
 
 # About me
 I am a Computational Biologist working in [immunogenomics](https://immunogenomics.hms.harvard.edu/) with [Dr. Soumya Raychaudhuri](https://dbmi.hms.harvard.edu/person/faculty/soumya-raychaudhuri) in collaboration with [Dr. Michael Brenner](https://www.hms.harvard.edu/dms/immunology/fac/Brenner.php) at Harvard Medical School, Brigham and Women's Hospital (BWH), and Broad Institute of Harvard and MIT at Boston.
@@ -65,7 +65,7 @@ I also worked with [Dr. Andrew C. Trapp](http://users.wpi.edu/~atrapp/) on devel
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  color = "#2C3287"
+  color = "#BEBADA"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

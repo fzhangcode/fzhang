@@ -1,5 +1,5 @@
 +++
-title = "A global optimization algorithm for sparse mixed-membership matrix factorization. *ICSA Book Series in Statistics. Springer, Cham*, 2019"
+title = "A global optimization algorithm for sparse mixed-membership matrix factorization. ICSA Book Series in Statistics. Springer, Cham, 2019"
 date = 2019-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

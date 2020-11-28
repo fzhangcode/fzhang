@@ -1,5 +1,5 @@
 +++
-title = "Variational inference for rare variant detection in deep, heterogeneous next generation sequencing data. *BMC Bioinformatics*, 2017"
+title = "Variational inference for rare variant detection in deep, heterogeneous next generation sequencing data. BMC Bioinformatics, 2017"
 date = 2017-03-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
