@@ -32,12 +32,7 @@ weight = 5  # Order that this section will appear in.
   institution = "Jilin University, Chaungchun, China"
   year = 2009
 
-  
-# Choose the user profile to display
-# This should be the username of a profile in your `content/author/` folder.
-# author = "admin"
-
-
++++
 
 # About me
 I am a Computational Biologist working in [immunogenomics](https://immunogenomics.hms.harvard.edu/) with [Dr. Soumya Raychaudhuri](https://dbmi.hms.harvard.edu/person/faculty/soumya-raychaudhuri) in collaboration with [Dr. Michael Brenner](https://www.hms.harvard.edu/dms/immunology/fac/Brenner.php) at Harvard Medical School, Brigham and Women's Hospital (BWH), and Broad Institute of Harvard and MIT at Boston.
@@ -48,6 +43,4 @@ I am also part of the Bioinformatics team of the BWH [10X Single Cell Genomics C
 
 I received my PhD in [bioinformatics and biomedical engineering at WPI](https://www.wpi.edu/academics/departments/biomedical-engineering) where I worked with [Dr. Patrick Flaherty](https://people.math.umass.edu/~flaherty/?_ga=2.161809467.684947861.1552584709-2039651767.1552584709) on Bayesian statistics and machine learning for large-scale genomic data.
 I also worked with [Dr. Andrew C. Trapp](http://users.wpi.edu/~atrapp/) on developing global optimization algorithms to solve mixed membership models.
-
-+++
 
