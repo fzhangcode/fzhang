@@ -48,4 +48,9 @@ date_format = "Jan 2006"
 """
 
 
+  # Background color.
+  color = "#2C3287"
+  text_color_light = true
+  
+
 +++

@@ -50,5 +50,7 @@ I received my PhD in [bioinformatics and biomedical engineering at WPI](https://
 I also worked with [Dr. Andrew C. Trapp](http://users.wpi.edu/~atrapp/) on developing global optimization algorithms to solve mixed membership models.
 
 
-
+  # Background color.
+  color = "#2C3287"
+  text_color_light = true
 

@@ -40,8 +40,8 @@ subtitle = "Invited and oral talks"
 #   #   Any HTML color name or Hex value is valid.
 #     
 #   # Background color.
-  color = "navy"
-#   
+  color = "#2C3287"
+
 #   # Background gradient.
 #   # gradient_start = "DeepSkyBlue"
 #   # gradient_end = "SkyBlue"
