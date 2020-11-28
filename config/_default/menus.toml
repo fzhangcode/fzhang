@@ -22,15 +22,16 @@
   weight = 30
 
 
-[[menu.main]]
-  name = "Projects"
-  url = "#project"
-  weight = 40
+# [[menu.main]]
+#  name = "Projects"
+#  url = "#project"
+#  weight = 40
 
-[[menu.main]]
-  name = "Recent Talks"
-  url = "#talks"
-  weight = 50
+
+# [[menu.main]]
+#  name = "Recent Talks"
+#  url = "#talks"
+#  weight = 50
 
   
 [[main]]
