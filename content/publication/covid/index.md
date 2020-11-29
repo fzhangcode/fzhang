@@ -1,6 +1,6 @@
 +++
 title = "IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 and other diseases with tissue inflammation. bioRxiv, In review, 2020"
-date = 2020-08-25T00:00:00
+date = 2020-09-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Zhang, F.**", "Mears, J.R.", "Shakib, L.", "Beynor, J.I.", "Shanaj, S.", "...", "Donlin, L.T.", 
