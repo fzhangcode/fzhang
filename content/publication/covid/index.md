@@ -4,7 +4,7 @@ date = 2020-08-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Zhang, F.**", "Mears, J.R.", "Shakib, L.", "Beynor, J.I.", "Shanaj, S.", "...", "Donlin, L.T.", 
-Raychaudhuri, S.]
+"Raychaudhuri, S."]
 
 # Publication type.
 # Legend:
