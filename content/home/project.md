@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Multi-tissue immune cell integration"
-    tag = "Multi-tissue immune cell integration"
-  
-  [[content.filter_button]]
     name = "RA-ILD lung vs RA synovium"
     tag = "RA-ILD lung vs RA synovium"
+    
+  [[content.filter_button]]
+    name = "Multi-tissue immune cell integration"
+    tag = "Multi-tissue immune cell integration"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

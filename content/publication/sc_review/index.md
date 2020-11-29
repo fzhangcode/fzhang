@@ -1,5 +1,5 @@
 +++
-title = "Single-cell transcriptomics in cancer: computational challenges and opportunities. *Nature Experimental & Molecular Medicine*, 2020"
+title = "Single-cell transcriptomics in cancer: computational challenges and opportunities. Nature Experimental & Molecular Medicine, 2020"
 date = 2020-09-15T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
