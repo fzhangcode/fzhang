@@ -257,10 +257,10 @@ preserveTaxonomyNames = true
   weight = 5
   
   
-[[menu.main]]
-  name = "Experience"
-  url = "#experience"
-  weight = 6
+# [[menu.main]]
+#  name = "Experience"
+#  url = "#experience"
+#  weight = 6
   
   
 # [[menu.main]]
