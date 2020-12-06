@@ -29,14 +29,14 @@
 
 [[menu.main]]
   name = "Projects"
-  url = "#project"
+  url = "#projects"
   weight = 30
 
   
-[[menu.main]]
-  name = "Recent Talks"
-  url = "#talks"
-  weight = 40
+# [[menu.main]]
+#  name = "Recent Talks"
+#  url = "#talks"
+#  weight = 40
 
   
   
