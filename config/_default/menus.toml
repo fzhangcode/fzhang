@@ -7,7 +7,7 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 11
   
 # [[main]]
 #  name = "Experience"
@@ -16,30 +16,31 @@
 
 
 [[main]]
+  name = "CV"
+  url = "#cv"
+  weight = 2
+  
+[[main]]
   name = "Publications"
   # url = "#featured"
   url = "#publications"
-  weight = 20
+  weight = 3
 
 
-[[menu.main]]
-  name = "Recent Talks"
-  url = "#talks"
-  weight = 30
-
-  
 [[menu.main]]
   name = "Projects"
   url = "#project"
-  weight = 40
+  weight = 4
 
+  
+[[menu.main]]
+  name = "Recent Talks"
+  url = "#talks"
+  weight = 5
 
-[[main]]
-  name = "CV"
-  url = "#cv"
-  weight = 50
   
   
+
 # [[main]]
 #   name = "Contact"
 #   url = "#contact"
