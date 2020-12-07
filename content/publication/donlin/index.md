@@ -70,4 +70,4 @@ math = true
 [header]
 image = "headers/hbegf.png"
 # caption = "My caption :smile:" 
-
++++
