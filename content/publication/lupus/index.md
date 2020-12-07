@@ -25,7 +25,7 @@ publication_short = ""
 abstract = "Lupus nephritis is a potentially fatal autoimmune disease for which the current treatment is ineffective and often toxic. To develop mechanistic hypotheses of disease, we analyzed kidney samples from patients with lupus nephritis and from healthy control subjects using single-cell RNA sequencing. Our analysis revealed 21 subsets of leukocytes active in disease, including multiple populations of myeloid cells, T cells, natural killer cells and B cells that demonstrated both pro-inflammatory responses and inflammation-resolving responses. We found evidence of local activation of B cells correlated with an age-associated B-cell signature and evidence of progressive stages of monocyte differentiation within the kidney. A clear interferon response was observed in most cells. Two chemokine receptors, CXCR4 and CX3CR1, were broadly expressed, implying a potentially central role in cell trafficking. Gene expression of immune cells in urine and kidney was highly correlated, which would suggest that urine might serve as a surrogate for kidney biopsies."
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "Single-cell lupus gene expression, kidney and urine"
 
 # Digital Object Identifier (DOI)
 doi = "10.1038/s41590-019-0398-x"

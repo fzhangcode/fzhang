@@ -24,6 +24,9 @@ publication_short = ""
 abstract = "To define the cell populations in rheumatoid arthritis (RA) driving joint inflammation, we applied single-cell RNA-seq (scRNA-seq), mass cytometry, bulk RNA-seq, and flow cytometry to sorted T cells, B cells, monocytes, and fibroblasts from 51 synovial tissue RA and osteoarthritis (OA) patient samples. Utilizing an integrated computational strategy based on canonical correlation analysis to 5,452 scRNA-seq profiles, we identified 18 unique cell populations. Combining mass cytometry and transcriptomics together revealed cell states expanded in RA synovia: THY1+HLAhigh sublining fibroblasts (OR=33.8), IL1B+ pro-inflammatory monocytes (OR=7.8), CD11c+T-bet+ autoimmune-associated B cells (OR=5.7), and PD-1+ Tph/Tfh (OR=3.0). We also defined CD8+ T cell subsets characterized by GZMK+, GZMB+, and GNLY+ expression. Using bulk and single-cell data, we mapped inflammatory mediators to source cell populations, for example attributing IL6 production to THY1+HLAhigh fibroblasts and naive B cells, and ILB to pro-inflammatory monocytes. These populations are potentially key mediators of RA pathogenesis. Feel free to check out the  websites and search your favorite genes using [Shiny app](https://immunogenomics.io/ampra/) to view single-cell RNA-seq, bulk RNA-seq, and mass cytometry data for rheumatoid arthritis data."
 
 
+# Summary
+summary = "Single-cell RA synovial gene expression, bulk and single-cell integration, transcriptomics and proteomics, disease association testing"
+
 # Digital Object Identifier (DOI)
 doi = ""
 

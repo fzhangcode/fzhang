@@ -30,7 +30,7 @@ image_preview = ""
 selected = false
 
 # Summary
-summary = ""
+summary = "Variational Bayesian inference, EM algorithm, rare variant detection"
 
 # Digital Object Identifier (DOI)
 doi = "10.1186/s12859-016-1451-5"

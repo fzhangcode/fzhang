@@ -24,7 +24,7 @@ publication_short = ""
 abstract = "Mixed membership factorization is a popular approach for analyzing data sets that have within-sample heterogeneity. In recent years, several algorithms have been developed for mixed membership matrix factorization, but they only guarantee estimates from a local optimum. Here, we derive a global optimization (GOP) algorithm that provides a guaranteed -global optimum for a sparse mixed membership matrix factorization problem. We test the algorithm on simulated data and find the algorithm always bounds the global optimum across random initializations and explores multiple modes efficiently."
 
 # Summary
-# summary = "Cited as:	**Zhang, F.**, Wang C., Trapp, A., and Flaherty, PA Global Optimization Algorithm for Sparse Mixed Membership Matrix Factorization. In Contemporary Biostatistics with Biopharmaceutical Applications (pp. 129-156), ICSA Book Series in Statistics. Springer, Cham (2019)."
+summary = "Global optimization, benders decomposition, mixed membership matrix factorization"
 
 # Digital Object Identifier (DOI)
 doi = "https://doi.org/10.1007/978-3-030-15310-6_7"

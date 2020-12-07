@@ -24,7 +24,7 @@ publication_short = "Nature EMM"
 abstract = "In this review, we highlight emerging themes in computational analysis of single-cell transcriptomics data and their applications to cancer research. We focus on downstream analytical challenges relevant to cancer research, including how to computationally perform unified analysis across many patients and disease states, distinguish neoplastic from non-neoplastic cells, infer communication with the tumor microenvironment, and delineate tumoral and microenvironmental evolution with trajectory and RNA velocity analysis. We include discussions on challenges and opportunities for future computational methodological advancements needed to realize the translational potential of single-cell transcriptomic profiling in cancer."
 
 # Summary
-summary = ""
+summary = "Single-cell methodological review, tumor heterogeneity and microenvironment"
 
 # Digital Object Identifier (DOI)
 doi = "https://doi.org/10.1038/s12276-020-0422-0"

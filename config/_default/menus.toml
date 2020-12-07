@@ -33,10 +33,10 @@
 #  weight = 30
 
   
-[[menu.main]]
-  name = "Recent Talks"
-  url = "#talks"
-  weight = 15
+#[[menu.main]]
+#  name = "Recent Talks"
+#  url = "#talks"
+#  weight = 40
 
   
   

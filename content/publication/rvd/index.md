@@ -24,7 +24,7 @@ publication_short = ""
 abstract = "We present a novel variant calling algorithm that uses a hierarchical Bayesian model to estimate allele frequency and call variants in heterogeneous samples. We show that our algorithm improves upon current classifiers and has higher sensitivity and specificity over a wide range of median read depth and minor allele fraction. We apply our model and identify 15 mutated loci in the PAXP1 gene in a matched clinical breast ductal carcinoma tumor sample; two of which are likely loss-of-heterozygosity events."
 
 # Summary
-summary = ""
+summary = "Hierarchical Bayesian model, rare variant detection, NGS DNA-seq"
 
 # Digital Object Identifier (DOI)
 doi = "10.1093/bioinformatics/btv275"

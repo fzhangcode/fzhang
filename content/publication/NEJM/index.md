@@ -23,7 +23,7 @@ publication_short = "NEJM"
 abstract = ""
 
 # Summary
-summary = ""
+summary = "RA flares, RNA-seq, preinflammatory mesenchymal, medicine"
 
 # Digital Object Identifier (DOI)
 doi = "DOI: 10.1056/NEJMoa2004114"
