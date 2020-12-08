@@ -1,6 +1,6 @@
 ---
 date: "2019-01-03T13:09:13-06:00"
-title: Oral talk: Integrating single-cell transcriptomics and mass cytometry to define cell states in rheumatoid arthritis at Single Cell Biology Keystone Symposia at Colorado
+title: [Oral talk] Integrating single-cell transcriptomics and mass cytometry to define cell states in rheumatoid arthritis at Single Cell Biology Keystone Symposia at Colorado
 subtitle: single-cell integration
 ---
 
