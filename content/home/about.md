@@ -13,7 +13,7 @@ weight = 5  # Order that this section will appear in.
     "Bayesian statistics and optimization",
     "Computational immunology",
     "Genomics and genetics",
-    "Autoimmune diseases"
+    "Precision medicine in autoimmune diseases"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -25,7 +25,7 @@ weight = 5  # Order that this section will appear in.
   
   
 [[education.courses]]
-  course = "Postdoc in Immunogenomics"
+  course = "Postdoc/Research Scientist in Immunogenomics"
   institution = "Harvard Medical School and Broad Institute, MA USA"
   year = 2020
   month = 7
@@ -58,7 +58,11 @@ weight = 5  # Order that this section will appear in.
 # About me
 I am a Computational Biologist working in [immunogenomics](https://immunogenomics.hms.harvard.edu/) with [Dr. Soumya Raychaudhuri](https://dbmi.hms.harvard.edu/person/faculty/soumya-raychaudhuri) in collaboration with [Dr. Michael Brenner](https://www.hms.harvard.edu/dms/immunology/fac/Brenner.php) at Harvard Medical School, Brigham and Women's Hospital (BWH), and Broad Institute of Harvard and MIT (2017 - Present).
 My research interests lie in the development and application of computational methods and pipelines to decipher pathogenic cell states and disease-associated features for autoimmune diseases using high-dimensional single-cell multi-omics data.
-I am also part of the BWH [10X Single Cell Genomics Core](https://singlecell.bwh.harvard.edu/).
+I have been collaborating with [Dr. Laura Donlin](https://www.donlinlab.com/) on pathologic mechanisms of macrophages in autoimmune diseased tissues.
+I am also part of the BWH [10X Single Cell Genomics Core](https://singlecell.bwh.harvard.edu/), where I provide consulting on bioinformatics protocols to academic customers such as immunology, rheumatology, pulmonology, and pathology labs.
+
+
+
 During my PhD (2013 - 2017), I worked with [Dr. Patrick Flaherty](https://people.math.umass.edu/~flaherty/) on Bayesian statistical modeling and machine learning for large-scale NGS-seq data to characterize patient heterogeneity in clinical samples.
 I also worked with [Dr. Andrew C. Trapp](http://users.wpi.edu/~atrapp/) on developing global optimization algorithms to solve variations of mixed membership models.
 
