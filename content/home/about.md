@@ -23,6 +23,13 @@ weight = 5  # Order that this section will appear in.
 #  year = Present
 #  month = 2
   
+  
+[[education.courses]]
+  course = "Postdoc in Immunogenomics"
+  institution = "Harvard Medical School and Broad Institute, MA USA"
+  year = 2020
+  month = 7
+  
 [[education.courses]]
   course = "PhD in Bioinformatics and Biomedical Engineering"
   institution = "Worcester Polytechnic Institute, MA USA"
@@ -37,14 +44,14 @@ weight = 5  # Order that this section will appear in.
 
 
 [[education.courses]]
-  course = "MS in Bioinformatics"
-  institution = "Jilin University, Changchun, China"
+  course = "BS and MS in Computer Science/Bioinformatics"
+  institution = "Jilin University, China"
   year = 2012
 
-[[education.courses]]
-  course = "BS in Computer Science"
-  institution = "Jilin University, Chaungchun, China"
-  year = 2009
+# [[education.courses]]
+#  course = "BS in Computer Science"
+#  institution = "Jilin University, Chaungchun, China"
+#  year = 2009
 
 +++
 
