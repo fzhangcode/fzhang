@@ -37,14 +37,14 @@ links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitt
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "headers/stm_macro.jpg"
+  caption = "headers/stm_macro.png"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
   
 [header]
-image = "headers/stm_macro.jpg"
+image = "headers/stm_macro.png"
 
 +++
 

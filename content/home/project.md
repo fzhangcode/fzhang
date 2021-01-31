@@ -32,6 +32,12 @@ subtitle = ""
   [[content.filter_button]]
     name = "Multi-tissue immune cell integration"
     tag = "Multi-tissue immune cell integration"
+    
+    
+  [[content.filter_button]]
+    name = "Single-cell multi-omics RA"
+    tag = "Single-cell multi-omics RA"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
