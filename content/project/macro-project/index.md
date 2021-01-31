@@ -10,7 +10,7 @@ summary = "Autoimmune, cytokine, macrophage, single-cell integration, COVID-19"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Multi-tissue immune cell integration"]
+tags = ["Cross-disease tissue integration"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

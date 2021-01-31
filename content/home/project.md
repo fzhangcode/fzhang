@@ -25,18 +25,15 @@ subtitle = ""
     name = "All"
     tag = "*"
   
-  [[content.filter_button]]
-    name = "RA-ILD lung vs RA synovium"
-    tag = "RA-ILD lung vs RA synovium"
     
   [[content.filter_button]]
-    name = "Multi-tissue immune cell integration"
-    tag = "Multi-tissue immune cell integration"
+    name = "Cross-disease tissue integration"
+    tag = "Cross-disease tissue integration"
     
     
   [[content.filter_button]]
     name = "Single-cell multi-omics RA"
-    tag = "Single-cell multi-omics RA"
+    tag = "Single-cell multi-omics"
 
 
 [design]

@@ -10,7 +10,7 @@ summary = "Single-cell CITE-seq, RA synovium, AMP phase 2"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Single-cell multi-omics RA"]
+tags = ["Single-cell multi-omics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
