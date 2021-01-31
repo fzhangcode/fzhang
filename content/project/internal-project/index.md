@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Single-cell integration of multiple inflammatory diseases and COVID-19"
+title = "Single-cell integration of inflammatory diseases and COVID-19 from diseased tissues"
 
 # Date this page was created.
 date = 2019-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Finding common pathogenic cell states in the myeloid compartment between rheumatoid arthritis, lupus, ulcerative colitis, Corhn's disease, and COVID-19, etc"
+summary = "Autoimmune, cytokine, macrophage, single-cell integration, COVID-19"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,7 +44,7 @@ links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitt
   focal_point = "Smart"
   
 [header]
-image = "stm_macro.jpg"
+image = "headers/stm_macro.jpg"
 
 +++
 

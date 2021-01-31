@@ -6,7 +6,7 @@ title = "RA and RA-associated lung disease"
 date = 2019-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Identifying pathogenic states between RA synovium and RA-ILD lung"
+summary = "Single-cell integration, cross-disease tissue, immune and stromal cells"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
