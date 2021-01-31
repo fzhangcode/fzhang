@@ -30,6 +30,10 @@ links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitt
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
+  
+[header]
+image = "headers/RA_ILD.jpg"
+
 +++
 
 We collabrate with [Dr. Edy Kim](https://connects.catalyst.harvard.edu/Profiles/display/Person/52376) on this project to understand the common pathogenic cell states between RA-ILD (RA-UIP and RA-nonUIP) and RA synovium, and the differences between RA-ILD and IPF (idiopathic pulmonary fibrosis) lung diseases using single-cell RNA-seq.
