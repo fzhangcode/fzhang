@@ -3,7 +3,7 @@ title = "Efficient and precise single-cell reference atlas mapping with Symphony
 date = 2021-01-10T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Kang, J.B.", "Nathan, A.", "**Zhang, F.**", "Millard, N.", "Rumker, L.", "Moody, D.B." "Korsunsky, I.*", "Raychaudhuri, S.*"]
+authors = ["Kang, J.B.", "Nathan, A.", "**Zhang, F.**", "Millard, N.", "Rumker, L.", "Moody, D.B.", "Korsunsky, I.", "Raychaudhuri, S."]
 
 # Publication type.
 # Legend:
