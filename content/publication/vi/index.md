@@ -73,6 +73,7 @@ math = true
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   # focal_point = ""
+    preview_only = true
   
 # <div class="mw6 center"><img src="/headers/vi_rvd2.png" alt="Figure 1"></img></div>
 [header]

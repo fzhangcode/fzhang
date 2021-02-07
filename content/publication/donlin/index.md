@@ -67,7 +67,9 @@ math = true
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+  preview_only = true
+    
 [header]
-image = "headers/hbegf.png"
+  image = "headers/hbegf.png"
 # caption = "My caption :smile:" 
 +++
