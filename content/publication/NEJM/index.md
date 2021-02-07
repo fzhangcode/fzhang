@@ -66,8 +66,10 @@ math = true
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+  preview_only = true
+    
 [header]
-image = "headers/NEJM1.png"
+  image = "headers/NEJM1.png"
 
 # caption = "My caption :smile:" 
 +++
