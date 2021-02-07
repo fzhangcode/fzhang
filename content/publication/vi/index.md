@@ -77,7 +77,7 @@ math = true
   
 # <div class="mw6 center"><img src="/headers/vi_rvd2.png" alt="Figure 1"></img></div>
 [header]
-image = "headers/vi_rvd2.png"
+  image = "headers/vi_rvd2.png"
 # caption = "My caption :smile:" 
 +++
 

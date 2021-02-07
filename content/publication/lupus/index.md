@@ -71,7 +71,7 @@ math = true
   focal_point = ""
   
 [header]
-image = "headers/lupus.png"
+  image = "headers/lupus.png"
 # caption = "My caption :smile:" 
 
 +++

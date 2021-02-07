@@ -67,11 +67,12 @@ math = true
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   # focal_point = ""
+    preview_only = true
   
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/harmony.png"
+  image = "headers/harmony.png"
 # caption = "My caption :smile:" 
 
 +++
