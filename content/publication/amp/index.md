@@ -67,18 +67,20 @@ highlight = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image_preview = ""
 
-# [image]
+[image]
   # Caption (optional)
-  # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  # focal_point = ""
+  focal_point = "Left"
+  preview_only = false
 
+  
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/amp.png"
+# [header]
+# image = "headers/amp.png"
 # caption = "My caption :smile:" 
 
 
