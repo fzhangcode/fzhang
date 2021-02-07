@@ -68,7 +68,7 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 [header]
-image = "headers/rvd2.png"
+  image = "headers/rvd2.png"
 # caption = "My caption :smile:" 
 +++
 
