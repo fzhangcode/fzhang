@@ -27,7 +27,7 @@ weight = 5  # Order that this section will appear in.
 [[education.courses]]
   course = "Research Scientist in Immunogenomics"
   institution = "Harvard Medical School and Broad Institute, MA USA"
-  year = Present
+  year = 2021
   month = 7
   
 [[education.courses]]
