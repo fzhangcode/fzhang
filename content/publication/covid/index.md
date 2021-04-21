@@ -1,6 +1,6 @@
 +++
-title = "IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 lungs and inflammatory diseases with tissue inflammation. Genome Medicine, In press"
-date = 2021-02-01T00:00:00
+title = "IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 lungs and inflammatory diseases with tissue inflammation. Genome Medicine, 2021"
+date = 2021-04-20T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Zhang, F.**", "Mears, J.R.", "Shakib, L.", "Beynor, J.I.", "Shanaj, S.", "...", "Donlin, L.T.", 
@@ -18,7 +18,7 @@ authors = ["**Zhang, F.**", "Mears, J.R.", "Shakib, L.", "Beynor, J.I.", "Shanaj
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In review"
+publication = "Genome Medicine"
 publication_short = ""
 
 # Abstract.
@@ -46,9 +46,9 @@ tags = []
 projects = ["internal-project"]
 
 # Links (optional).
-# url_pdf = ""
-url_preprint = "https://www.biorxiv.org/content/10.1101/2020.08.05.238360v1"
-url_code = ""
+url_pdf = "https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00881-3"
+url_preprint = ""
+url_code = "https://github.com/immunogenomics/inflamedtissue_covid19_reference"
 # url_dataset = "#"
 
 
