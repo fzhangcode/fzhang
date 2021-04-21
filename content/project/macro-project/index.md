@@ -3,7 +3,7 @@
 title = "Single-cell integration of inflammatory diseases and COVID-19 from diseased tissues"
 
 # Date this page was created.
-date = 2019-04-27T00:00:00
+date = 2021-04-20T00:00:00
 
 # Project summary to display on homepage.
 summary = "Autoimmune, cytokine, macrophage, single-cell integration, COVID-19"
@@ -48,9 +48,15 @@ image = "headers/stm_macro.png"
 
 +++
 
-Immunosuppressive and anti-cytokine treatment may have a protective effect for patients with COVID-19. Understanding the immune cell states shared between COVID-19 and other inflammatory diseases with established therapies may help nominate immunomodulatory therapies. Using an integrative strategy, we built a reference by meta-analyzing > 300,000 immune cells from COVID-19 and 5 inflammatory diseases including rheumatoid arthritis (RA), Crohn’s disease (CD), ulcerative colitis (UC), lupus, and interstitial lung disease. Our cross-disease analysis revealed that an FCN1+ inflammatory macrophage state is common to COVID-19 bronchoalveolar lavage samples, RA synovium, CD ileum, and UC colon. We also observed that a CXCL10+ CCL2+ inflammatory macrophage state is abundant in severe COVID-19, inflamed CD and RA, and expresses inflammatory genes such as GBP1, STAT1, and IL1B. We found that the CXCL10+ CCL2+ macrophages are transcriptionally similar to blood-derived macrophages stimulated with TNF-α and IFN-γ ex vivo. Our findings suggest that IFN-γ, alongside TNF-α, might be a key driver of this abundant inflammatory macrophage phenotype in severe COVID-19 and other inflammatory diseases, which may be targeted by existing immunomodulatory therapies.
+*Motivation*: Understanding the immune cell states shared between COVID-19 and other inflammatory diseases with established therapies may help nominate immunomodulatory therapies.
 
-The preprint version is: Zhang, Fan, et al. "IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 and other diseases with tissue inflammation." bioRxiv (2020).
+*Build an immune cell reference* consisting of >300,000 single-cell transcriptomic profiles from COVID-19 affected lungs and tissues from healthy subjects and patients with 5 inflammatory diseases: rheumatoid arthritis (RA), Crohn’s disease (CD), ulcerative colitis (UC), lupus, and interstitial lung disease. We tested the association of shared immune states with severe/inflamed status compared to healthy using mixed-effects modeling.
+
+*Identify a CXCL10+ CCL2+ inflammatory macrophage phenotype* that is shared and strikingly abundant in severe COVID-19 bronchoalveolar lavage samples, inflamed RA synovium, inflamed CD ileum and UC colon. We found this macrophage phenotype is induced upon co-stimulation by IFN-γ and TNF-α collaborating with the Donlin lab.
+
+*A proof of concept*: This reference can be used to query/investigate cells from other inflammatory diseases and their transcriptomic similarities with our reference which incorporates 5 inflammatory diseased tissues and COVID-19 BALF. We provide a [Notebook of example code](https://github.com/immunogenomics/inflamedtissue_covid19_reference/blob/master/code/Map_Sepsis_to_FanImmuneReference_using_Symphony_Notebook.ipynb) to show how to map Sepsis PBMCs (Reyes, et al, Nature Medicine, 2020) to our cross-diseased tissue single-cell reference and identify shared inflammatory structures.
+
+Citation: Zhang, Fan, et al. IFN-γ and TNF-α drive a CXCL10+ CCL2+ macrophage phenotype expanded in severe COVID-19 lungs and inflammatory diseases with tissue inflammation. Genome Medicine, 2021.
 
 
 
