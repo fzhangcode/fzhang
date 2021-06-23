@@ -237,29 +237,29 @@ preserveTaxonomyNames = true
 
 [[menu.main]]
   name = "Home"
-  url = "/about"
+  url = "#about"
   weight = 1
 
 [[menu.main]]
   name = "CV"
-  url = "/cv"
+  url = "#cv"
   weight = 2
 
 
 [[menu.main]]
   name = "Publications"
-  url = "/publications"
+  url = "#publications"
   weight = 3
 
 [[menu.main]]
   name = "Projects"
-  url = "/project"
+  url = "#project"
   weight = 4
   
 
 [[menu.main]]
   name = "Recent Talks"
-  url = "/talks"
+  url = "#talks"
   weight = 5
   
   
