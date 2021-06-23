@@ -200,7 +200,7 @@ preserveTaxonomyNames = true
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "https://twitter.com/FanZhang_Jessie"
+    link = "//twitter.com/FanZhang_Jessie"
 
   [[params.social]]
     icon = "google-scholar"
