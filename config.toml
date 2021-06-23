@@ -241,27 +241,25 @@ preserveTaxonomyNames = true
   weight = 1
 
 [[menu.main]]
-  name = "CV"
-  url = "#cv"
-  weight = 2
-
-
-[[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 3
+  weight = 2
 
+[[menu.main]]
+  name = "Recent Talks"
+  url = "#talks"
+  weight = 3
+  
 [[menu.main]]
   name = "Projects"
   url = "#project"
   weight = 4
   
-
 [[menu.main]]
-  name = "Recent Talks"
-  url = "#talks"
+  name = "CV"
+  url = "#cv"
   weight = 5
-  
+
   
 # [[menu.main]]
 #  name = "Experience"
