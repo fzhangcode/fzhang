@@ -5,6 +5,7 @@
 widget = "custom"
 active = true
 date = 2016-04-20T00:00:00
+weight = 5 # Order that this section will appear in.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "CV"
@@ -12,8 +13,7 @@ subtitle = "Updated by 2020-08-20"
 
 # title = "Biography"
 
-# Order that this section will appear in.
-weight = 2
+
 
 +++
 
