@@ -200,7 +200,7 @@ preserveTaxonomyNames = true
   [[params.social]]
     icon = "fa-twitter"
     icon_pack = "fab"
-    link = "//twitter.com/FanZhang_Jessie"
+    link = "https://twitter.com/FanZhang_Jessie"
 
   [[params.social]]
     icon = "google-scholar"
@@ -216,7 +216,7 @@ preserveTaxonomyNames = true
   [[params.social]]
     icon = "fa-github"
     icon_pack = "fab"
-    link = "//github.com/fzhangcode"
+    link = "https://github.com/fzhangcode"
     
 #  [[params.social]]
 #    icon = "linkedin"
