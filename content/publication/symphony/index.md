@@ -27,7 +27,7 @@ abstract = "Recent advances in single-cell technologies and integration algorith
 summary = "Single-cell reference mapping"
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.1101/2020.11.18.389189"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -45,9 +45,9 @@ tags = []
 projects = ["internal-project"]
 
 # Links (optional).
-# url_pdf = ""
+url_pdf = "https://www.biorxiv.org/content/10.1101/2020.11.18.389189v2"
 # url_preprint = ""
-url_code = ""
+url_code = "https://github.com/immunogenomics/symphony"
 # url_dataset = "#"
 
 
