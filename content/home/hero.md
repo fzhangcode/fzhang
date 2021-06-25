@@ -8,11 +8,6 @@ weight = 1  # Order that this section will appear.
 title = "Academic"
 
 
-**A journey of science**
-
-Build **Anything** with Widgets
-
-
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "cap.png"
 
@@ -49,11 +44,11 @@ hero_media = "cap.png"
 #   label = "Get Started"
 #   icon_pack = "fas"
 #   icon = "download"
-#   
+   
 # [cta_alt]
 #   url = "https://sourcethemes.com/academic/"
 #   label = "View Documentation"
-# 
+ 
 # # Note. An optional note to show underneath the links.
 # [cta_note]
 #   label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
