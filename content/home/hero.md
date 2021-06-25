@@ -7,8 +7,14 @@ weight = 1  # Order that this section will appear.
 
 title = "Academic"
 
+
+**A journey of science**
+
+Build **Anything** with Widgets
+
+
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "bubbles-wide.jpg"
+hero_media = "cap.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -30,6 +36,11 @@ hero_media = "bubbles-wide.jpg"
   # Text color (true=light or false=dark).
   text_color_light = true
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["25px", "0", "200px", "0"]
+  
+  
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
@@ -47,9 +58,5 @@ hero_media = "bubbles-wide.jpg"
 # [cta_note]
 #   label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
 +++
-
-**A journey of science**
-
-Build **Anything** with Widgets
 
 
