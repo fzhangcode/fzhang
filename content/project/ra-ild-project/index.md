@@ -29,7 +29,7 @@ links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitt
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "TopRight"
   
 [header]
 image = "headers/RA_ILD.jpg"

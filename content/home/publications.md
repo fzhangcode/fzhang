@@ -30,6 +30,10 @@ subtitle = "Code, data, and PDF for each paper are provided. Ask [me](mailto:fzh
     publication_type = ""
     exclude_featured = false
   
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+  
 # [design]
 #   # Toggle between the various page layout types.
 #   #   1 = List
