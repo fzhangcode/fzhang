@@ -46,7 +46,7 @@ hero_media = "cap.png"
  css_style = ""
 
  # CSS class.
- css_class = ""
+ css_class = "fullscreen"
  
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
