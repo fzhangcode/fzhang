@@ -6,7 +6,7 @@ title = "Single-cell multi-model CITE-seq integration of RA"
 date = 2020-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Single-cell CITE-seq, RA synovium, AMP phase 2"
+summary = "Single-cell multi-omics, CITE-seq, RA synovium, AMP"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

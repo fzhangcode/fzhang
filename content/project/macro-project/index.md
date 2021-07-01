@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Single-cell integration of inflammatory diseases and COVID-19 from diseased tissues"
+title = "Single-cell integration of inflammatory diseases tissues"
 
 # Date this page was created.
 date = 2021-04-20T00:00:00
 
 # Project summary to display on homepage.
-summary = "Autoimmune, cytokine, macrophage, single-cell integration, COVID-19"
+summary = "Macrophage, single-cell integration, inflammatory disease, COVID-19"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
