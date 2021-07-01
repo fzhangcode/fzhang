@@ -10,10 +10,9 @@ weight = 1  # Order that this section will appear.
 
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-# hero_media = "cap.png"
+hero_media = "cap.png"
 
-# [advanced]
-#   css_class = fullscreen
+
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -42,7 +41,13 @@ weight = 1  # Order that this section will appear.
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
   
-	
+[advanced]
+ # Custom CSS.
+ css_style = ""
+
+ # CSS class.
+ css_class = ""
+ 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
