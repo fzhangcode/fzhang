@@ -33,11 +33,8 @@ hero_media = "cap.png"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "20px", "20px", "20px"]
+  padding = ["2px", "0", "2px", "0"]
   
-
-<img src="cap.png"
-	title="A cute kitten" width="150" height="100" />
 	
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
