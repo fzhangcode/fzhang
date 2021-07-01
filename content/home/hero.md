@@ -5,11 +5,11 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Academic"
+# title = "Academic"
 
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "cap.png"
+hero_media = "shaddow_portrait_80.jpeg"
 
 [design.background]
   # Apply a background color, gradient, or image.
