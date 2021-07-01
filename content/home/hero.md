@@ -1,6 +1,7 @@
 +++
 # Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
+# widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget: blank
 headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
@@ -11,8 +12,8 @@ weight = 1  # Order that this section will appear.
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "cap.png"
 
-[advanced]
-  css_class = fullscreen
+# [advanced]
+#   css_class = fullscreen
   
 [design.background]
   # Apply a background color, gradient, or image.
