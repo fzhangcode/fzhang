@@ -22,13 +22,13 @@ subtitle = "Invited and oral talks"
   # # Page order. Descending (desc) or ascending (asc) date.
   # order = "desc"
   
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   3 = Card
-  #   5 = Showcase
-  view = 1
+# [design]
+#   # Choose how many columns the section has. Valid values: 1 or 2.
+#   columns = "1"
+# 
+#   # Toggle between the various page layout types.
+#   #   1 = List
+#   #   3 = Card
+#   #   5 = Showcase
+#   view = 1
 +++
