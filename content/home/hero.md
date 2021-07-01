@@ -21,10 +21,8 @@ hero_media = "cap.png"
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "#4bb4e3"
-  # gradient_end = "#2b94c3"
-    gradient_start = "#0000F9"
-    gradient_end = "#86007D"
+  #  gradient_start = "#0000F9"
+  #  gradient_end = "#86007D"
   
   # Background image.
   # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
@@ -35,7 +33,7 @@ hero_media = "cap.png"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["200px", "0", "20px", "0"]
   
   
 # Call to action links (optional).
