@@ -197,10 +197,10 @@ preserveTaxonomyNames = true
     link = "https://orcid.org/0000-0002-6102-2970"
     
     
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/FanZhang_Jessie"
+#   [[params.social]]
+#     icon = "twitter"
+#    icon_pack = "fab"
+#    link = "https://twitter.com/FanZhang_Jessie"
 
   [[params.social]]
     icon = "google-scholar"
@@ -213,10 +213,10 @@ preserveTaxonomyNames = true
 #    icon_pack = "ai"
 #    link = "https://github.com/fzhangcode"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = "https://github.com/fzhangcode"
+#  [[params.social]]
+#    icon = "github"
+#     icon_pack = "fab"
+#    link = "https://github.com/fzhangcode"
     
 #  [[params.social]]
 #    icon = "linkedin"
