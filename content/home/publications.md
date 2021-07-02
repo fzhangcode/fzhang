@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
 title = "Selected Publications"
-subtitle = "Code, data, and PDF for each paper are provided. Ask [me](mailto:fzhang.combio@gmail.com) for questions."
+subtitle = "Code, data, and PDF are provided. Ask [me](mailto:fzhang.combio@gmail.com) for questions."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -60,11 +60,11 @@ subtitle = "Code, data, and PDF for each paper are provided. Ask [me](mailto:fzh
 #   # Text color (true=light or false=dark).
 #   text_color_light = true
 
-# [advanced]
-#  # Custom CSS. 
-#  css_style = ""
+[advanced]
+ # Custom CSS.
+ css_style = ""
  
-#  # CSS class.
-#  css_class = ""
+ # CSS class.
+ css_class = ""
 +++
 
