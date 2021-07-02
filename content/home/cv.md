@@ -9,7 +9,7 @@ weight = 6 # Order that this section will appear in.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "CV"
-subtitle = "Updated by 2020-08-20"
+subtitle = "Updated by 2021-02-20"
 
 # title = "Biography"
 
