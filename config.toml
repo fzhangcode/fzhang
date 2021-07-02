@@ -14,7 +14,7 @@ baseurl = "https://fzhang.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019"
+copyright = "&copy; 2020"
 
 # Enable analytics by entering your Google Analytics tracking ID
 # googleAnalytics = "UA-136591234-1"
@@ -197,10 +197,10 @@ preserveTaxonomyNames = true
     link = "https://orcid.org/0000-0002-6102-2970"
     
     
-#  [[params.social]]
-#    icon = "twitter"
-#    icon_pack = "fa"
-#    link = "//twitter.com/FanZhang_Jessie"
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fab"
+    link = "https://twitter.com/FanZhang_Jessie"
 
   [[params.social]]
     icon = "google-scholar"
@@ -213,10 +213,10 @@ preserveTaxonomyNames = true
 #    icon_pack = "ai"
 #    link = "https://github.com/fzhangcode"
 
-#  [[params.social]]
-#    icon = "github"
-#    icon_pack = "fa"
-#    link = "https://github.com/fzhangcode"
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fab"
+    link = "https://github.com/fzhangcode"
     
 #  [[params.social]]
 #    icon = "linkedin"
